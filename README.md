@@ -10,6 +10,6 @@ Welcome to my test repository
 
 *Are you there?*
 
-### Sunflower 
+### Picture
 
 ![](sunflower.jpg)
