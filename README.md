@@ -12,4 +12,4 @@ Welcome to my test repository
 
 ### Sunflower 
 
-!sunflower.jpg
+![](sunflower.jpg)
