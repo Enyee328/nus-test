@@ -13,3 +13,4 @@ Welcome to my test repository
 ### Nature
 
 ![](sunflower.jpg)
+![](Cradle Mountain.jpg)
