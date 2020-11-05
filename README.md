@@ -4,7 +4,6 @@ Welcome to my test repository
 
 ## Body
 
-*This is a list item
-*List 2
+*This is a list item*
 
 ### Paragragh 
