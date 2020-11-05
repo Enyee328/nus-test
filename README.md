@@ -4,12 +4,12 @@ Welcome to my test repository
 
 ## Body
 
-* This is a list item
+* List item 
 
 *Hello there*
 
 *Are you there?*
 
-### Picture
+### Nature
 
 ![](sunflower.jpg)
